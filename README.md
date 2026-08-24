@@ -1,2 +1,5 @@
-# supercharger-price-web-preview
-Built mobile preview of Supercharger Price (dist only, not source). Private experiment, not a launch.
+# Supercharger Price — mobile preview
+
+Built PWA only. Not the source. Private experiment by Iven Kurz, not a launch.
+
+Feed: https://ivenkurz.github.io/supercharger-price/europe.json
